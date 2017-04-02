@@ -1,0 +1,4 @@
+0:0000.0/=============== Logging to: Liquid.log opened ================
+0:0000.0/Compiling script: /usr/bin/fsharpc --optimize- --tailcalls- --platform:anycpu -r:"System.dll" -r:"System.Core.dll" --target:library --warn:3 --warnaserror:76 --vserrors --LCID:1033 --utf8output --fullpaths --flaterrors --lib:"/usr/bin" -o:"/home/andru/Documents/PhD/Quantum Workshop/v2.0/Day 5/blackBox.dll" -r:"/home/andru/Liquid/bin/Liquid1.dll" "/home/andru/Documents/PhD/Quantum Workshop/v2.0/Day 5/blackBox.fsx"
+0:0000.0/
+0:0000.0/=============== Logging to: Liquid.log closed ================
